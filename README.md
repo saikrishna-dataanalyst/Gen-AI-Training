@@ -132,6 +132,17 @@ Why embeddings exist
   Embeddings are the bridge between:  
          human Meaning --- machine numbers
 
+**Why not use unlimited dimensions?**
+
+Because of:
+1) Curse of dimensionality
+2) Higher storage cost
+3)Slower similarity search
+4) Noise & diminishing returns
+
+That’s why most models use:
+384 – 2048 dimensions (sweet spot)
+
 **Tasks**
 
 1.Determine the requirements for building a video or image chatbot with streaming capabilities for images and videos using the concept of embeddings.
