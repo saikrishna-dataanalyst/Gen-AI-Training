@@ -236,8 +236,9 @@ Profession.
   More dimensions → richer description
   Too many → noisy, expensive, inefficient
 
-
-**Retrieval-Augmented Generation (RAG)**
+**16/01/2026** 
+ 
+ **Retrieval-Augmented Generation (RAG)**
  
 1_ingestion_pipeline.py (MOST IMPORTANT)
 What problem it solves
